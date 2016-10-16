@@ -1,2 +1,2 @@
 # Data-Science
-Workspace for Coursera Data Science projects
+Workspace for Data Science projects
